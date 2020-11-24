@@ -13,6 +13,7 @@ public class GUITest extends Frame {
         this.setSize(1000,800);
         this.setLocation(0,0);
         this.setVisible(true);
+        this.setEnabled(true);
 
     }
 
