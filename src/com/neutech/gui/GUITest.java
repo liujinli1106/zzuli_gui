@@ -14,6 +14,7 @@ public class GUITest extends Frame {
         this.setLocation(0,0);
         this.setVisible(true);
         this.setEnabled(true);
+        this.setResizable(true);
 
     }
 
