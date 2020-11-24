@@ -34,6 +34,7 @@ public class GUITest extends Frame {
         g.drawLine(100, 200, 200, 500);
         // 画矩形
         g.drawRect(100, 100, 400, 280);
+        g.drawRect(100, 100, 400, 280);
         //画圆形
         g.drawOval(100, 100, 400, 280);
         //保存系统默认颜色
